@@ -21,7 +21,8 @@ You can use a paper as mediator between the 3D world and the 2D projection on th
 
 ## Z-Construction for Lines on a Surface
 A Z-construction generates perspective image of a half-line `b` with ground line `s`. The intersection with the ground line is the point `S1`. Assume you want to draw the projective image of the half line `b` on the mirror plane. To create the projective image you need the following steps. 
-* draw a parallel line `d` to the half line `b` through the point of the eye `Z`. The intersection of that line `d` with the horizon generates the vanishing point `F2` for the projection of the halfline `b` to the mirror plane. The line between `F1` and `S1` is the projective image of the half-line `b`.
+* draw a parallel line `d` to the half line `b` through the point of the eye `Z`. The intersection of that line `d` with the horizon generates the vanishing point `F2` for the projection of the halfline `b` to the mirror plane. 
+* The line between `F1` and `S1` is the projective image of the half-line `b`.
 
 ![Z-Construction](img/z_construction_line_on_surface.png)
 
