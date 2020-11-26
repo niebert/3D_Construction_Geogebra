@@ -2,6 +2,9 @@
 The repository contains Geogebra files for learning 3D projections on a mirror Z-, X, and I-construction of 3D point and lines.
 This repository is created for the [Wikiversity Learning Resource about Perspective Drawing](https://en.wikiversity.org/wiki/Perspective_Drawing_on_Mirror) - https://en.wikiversity.org/wiki/Perspective_Drawing_on_Mirror
 
+* [**Download 3D Constructions as ZIP**](https://github.com/niebert/3D_Construction_Geogebra/archive/master.zip)
+
+
 ## Basic Geometry in Front of the Mirror
 The perspective drawing creates an image of an object in front of a mirror. The eye observing the projective image from a point Z. 
 Assume the observer is painting the perspective image of a vertical line/stick on the surface of the mirror.
