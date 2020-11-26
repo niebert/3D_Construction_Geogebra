@@ -20,7 +20,7 @@ You can use a paper as mediator between the 3D world and the 2D projection on th
 ![Z-Construction](img/paper_location_mirror_unfold.png)
 
 ## Z-Construction for Lines on a Surface
-A Z-construction generates perspective image of a half-line `b`. Assume you draw a half line in the ground plane. The a parallel line `d` is drawn through the point of the eye `Z`. The intersection of that line `d` with the horizon generates the vanishing point `F` for the projection of the halfline to the mirror plane.
+A Z-construction generates perspective image of a half-line `b`. Assume you draw a half line in the ground plane. The a parallel line `d` is drawn through the point of the eye `Z`. The intersection of that line `d` with the horizon generates the vanishing point `F2` for the projection of the halfline to the mirror plane.
 
 ![Z-Construction](img/z_construction_line_on_surface.png)
 
