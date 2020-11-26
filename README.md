@@ -15,7 +15,7 @@ The following image shows the basic situation of a 3D projection on a mirror. Th
 ![Mirror-Basic](img/3d_object_perspective_drawing_red_lines.png)
 
 ## Use a Paper as Mediator between 3D and 2D Construction 
-You can use a paper as mediator between the 3D world and the 2D projection on the paper. The point `Z` is the point where the eye is located. `h` is the horizon of the contruction and `s` is parallel to the horizon `h` as the intersection of the groundplane and plane of the mirror. Projected objects "stand" on the groundplane and the projection to the mirror plane is the objective of the construction. 
+You can use a paper as mediator between the 3D world and the 2D projection on the paper. The point `Z` is the point where the eye is located. `h` is the horizon of the contruction and `s` is parallel to the horizon `h` as the intersection of the groundplane and plane of the mirror. Projected objects "stand" on the groundplane and the projection to the mirror plane is the objective of the construction. Keep in mind that line through the point `Z` in the upper paper plane of the 3D world provides the correponding vanishing point directly by the intersection with the horizon `h`. Parallel lines in the 3D world have the same vanishing point on the horzion. This geometric property leads to the Z-construction to find the corresponding vanishing point for half lines in the ground plane.
 
 ![Z-Construction](img/paper_location_mirror_unfold.png)
 
