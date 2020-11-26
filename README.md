@@ -15,12 +15,12 @@ The following image shows the basic situation of a 3D projection on a mirror. Th
 ![Mirror-Basic](img/3d_object_perspective_drawing_red_lines.png)
 
 ## Use a Paper as Mediator between 3D and 2D Construction 
-You can use a paper as mediator between the 3D world and the 2D projection on the paper.
+You can use a paper as mediator between the 3D world and the 2D projection on the paper. The point `Z` is the point where the eye is located. `h` is the horizon of the contruction and `s` is parallel to the horizon `h` as the intersection of the groundplane and plane of the mirror. Projected objects "stand" on the groundplane and the projection to the mirror plane is the objective of the construction. 
 
 ![Z-Construction](img/paper_location_mirror_unfold.png)
 
 ## Z-Construction for Lines on a Surface
-A Z-construction generates perspective image of a half-line. 
+A Z-construction generates perspective image of a half-line `g`. Assume you draw a half line in the ground plane. The a parallel line `g` is drawn through the point of the eye `Z`. The intersection of that line with the horizon generates the vanishing point for the projection of the halfline to the mirror plane.
 
 ![Z-Construction](img/z_construction_line_on_surface.png)
 
